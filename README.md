@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm current learning Machine Learning<br>I'm a student at IIT Madras <br>Passionate about machine learning and robotics an in general data  improve the grammar
+I'm a student at IIT Madras <br>Passionate about machine learning and robotics an in general data  improve the grammar
 
 
 ## 🌐 Socials:
