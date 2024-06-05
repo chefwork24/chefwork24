@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a student at IIT Madras <br>Passionate about machine learning and robotics and other cool stuff.
+Hi, I'm a student at IIT Madras with a strong passion for machine learning, robotics, and other cutting-edge technologies. I thrive on solving complex problems and enjoy diving deep into the fascinating world of algorithms and artificial intelligence. In addition to my academic pursuits, I love tackling puzzles and playing Sudoku, which keep my mind agile and help me think outside the box. Whether it's through coding, building robots, or finding the solution to a challenging puzzle, I'm always excited about learning and exploring new possibilities.
 
 
 ## 🌐 Socials:
